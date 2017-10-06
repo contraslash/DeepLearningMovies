@@ -1,2 +1,5 @@
 .DS_Store
 data/*
+300features_40minwords_10context
+BagOfCentroids.csv
+Word2Vec_AverageVectors.csv
